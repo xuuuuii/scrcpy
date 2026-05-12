@@ -2,7 +2,7 @@
 source for the project. Do not download releases from random websites, even if
 their name contains `scrcpy`.**
 
-# scrcpy (v3.3.4)
+# scrcpy (v4.0)
 
 <img src="app/data/scrcpy.svg" width="128" height="128" alt="scrcpy" align="right" />
 
